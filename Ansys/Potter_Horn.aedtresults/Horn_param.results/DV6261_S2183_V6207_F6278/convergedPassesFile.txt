@@ -1,0 +1,4 @@
+$begin 'ConvergedPassesInfo'
+	AdaptFrequency=3e+10
+	ConvergedPasses=2
+$end 'ConvergedPassesInfo'

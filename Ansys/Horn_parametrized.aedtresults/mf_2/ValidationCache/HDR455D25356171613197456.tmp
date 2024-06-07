@@ -1,0 +1,7 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='a=\'23mm\' b=\'10mm\' Horn_length=\'130mm\' PlaneA=\'67.309999999999988mm\' PlaneB=\'49.529999999999994mm\' rad_dist=\'10.16mm\' Wall_thickness=\'1.27mm\' WG_lenght=\'25mm\''
+		Status=true
+		FileName='VI455D25356171613197457.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

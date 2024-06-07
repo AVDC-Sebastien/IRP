@@ -1,0 +1,10 @@
+$begin 'Header'
+	NumSources=2
+	BigEndian=false
+	ByteOrder=1094861636
+	DataFormat='BINARY'
+	DataPrecision='Float'
+	Frequency=2.9e+10
+	Source_1='Port_1__Mode_1'
+	Source_2='Port_1__Mode_2'
+$end 'Header'

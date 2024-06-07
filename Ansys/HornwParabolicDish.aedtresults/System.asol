@@ -1,0 +1,166 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002024, month=000000000005, day=000000000019, hour=000000000016, min=000000000013, sec=000000000007)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000005034, lin=000000000143, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock4'
+	SimSetupID=6
+	SimSetupName='5GHz'
+	VersionID=1125
+	IsImported=false
+	IsTable=false
+	SolveSetupID=0
+	MeshAssemVersionID=1
+	$begin 'NextAssemVersionID'
+		NextUniqueID=2
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'ADP'
+	$end 'ADP'
+	$begin 'SU'
+	$end 'SU'
+	$begin 'Profiles'
+		P(VID=1119, Ver=1125, File='DV1119_S6_V1125.profile')
+		P(VID=1170, Ver=1125, File='DV1170_S6_V1125.profile')
+		P(VID=1171, Ver=1125, File='DV1171_S6_V1125.profile')
+		P(VID=1172, Ver=1125, File='DV1172_S6_V1125.profile')
+		P(VID=1173, Ver=1125, File='DV1173_S6_V1125.profile')
+		P(VID=1174, Ver=1125, File='DV1174_S6_V1125.profile')
+		P(VID=1175, Ver=1125, File='DV1175_S6_V1125.profile')
+		P(VID=1176, Ver=1125, File='DV1176_S6_V1125.profile')
+		P(VID=1177, Ver=1125, File='DV1177_S6_V1125.profile')
+		P(VID=1178, Ver=1125, File='DV1178_S6_V1125.profile')
+		P(VID=1179, Ver=1125, File='DV1179_S6_V1125.profile')
+	$end 'Profiles'
+	$begin 'MI'
+	$end 'MI'
+$end 'SolutionBlock4'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock5'
+	'SolutionKey(SimSetup=6, Instance=\'SetupDefinition\', Solution=-1, VersionID=1125)'='SolutionBlock4'
+	'SolutionKey(SimSetup=6, Instance=\'SolutionDefinition\', Solution=7, VersionID=1125)'='SolutionBlock2'
+	'SolutionKey(SimSetup=6, Instance=\'SolutionDefinition\', Solution=8, VersionID=1125)'='SolutionBlock3'
+$end 'BlockMapName'
+$begin 'OptimetricsResults'
+	'0:11'='OptimetricsResult1'
+$end 'OptimetricsResults'
+$begin 'OptimetricsResult1'
+	V=2
+	svi('MSD', '10mm')
+	svi('MSND', '5deg')
+	vi('Offset', '0mm', '0mm', '0mm')
+	gver(0)
+	ev(8, 1125)
+	var(1.000000000000000e-02, 8.726646259971647e-02, -1.000000000000000e-01)
+	gvs(-1.000000000000000e-01)
+	var(1.000000000000000e-02, 8.726646259971647e-02, -8.000000000000000e-02)
+	gvs(-8.000000000000000e-02)
+	var(1.000000000000000e-02, 8.726646259971647e-02, -6.000000000000000e-02)
+	gvs(-6.000000000000000e-02)
+	var(1.000000000000000e-02, 8.726646259971647e-02, -4.000000000000000e-02)
+	gvs(-4.000000000000000e-02)
+	var(1.000000000000000e-02, 8.726646259971647e-02, -2.000000000000000e-02)
+	gvs(-2.000000000000000e-02)
+	var(1.000000000000000e-02, 8.726646259971647e-02, 0.000000000000000e+00)
+	gvs(0.000000000000000e+00)
+	var(1.000000000000000e-02, 8.726646259971647e-02, 2.000000000000000e-02)
+	gvs(2.000000000000000e-02)
+	var(1.000000000000000e-02, 8.726646259971647e-02, 4.000000000000000e-02)
+	gvs(4.000000000000000e-02)
+	var(1.000000000000000e-02, 8.726646259971647e-02, 6.000000000000000e-02)
+	gvs(6.000000000000000e-02)
+	var(1.000000000000000e-02, 8.726646259971647e-02, 8.000000000000000e-02)
+	gvs(8.000000000000000e-02)
+	var(1.000000000000000e-02, 8.726646259971647e-02, 1.000000000000000e-01)
+	gvs(1.000000000000000e-01)
+$end 'OptimetricsResult1'
+$begin 'ResponseSurfaceCache'
+	ResponseSurfaceCache()
+$end 'ResponseSurfaceCache'
+$begin 'SolutionBlock5'
+	ProductName=''
+	CircuitName='System'
+	VersionID=1125
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=1180
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='MSD=\'10mm\' MSND=\'5deg\' Offset=\'-100mm\'', ID=1170)
+		Map(V='MSD=\'10mm\' MSND=\'5deg\' Offset=\'-20mm\'', ID=1174)
+		Map(V='MSD=\'10mm\' MSND=\'5deg\' Offset=\'-40mm\'', ID=1173)
+		Map(V='MSD=\'10mm\' MSND=\'5deg\' Offset=\'-60mm\'', ID=1172)
+		Map(V='MSD=\'10mm\' MSND=\'5deg\' Offset=\'-80mm\'', ID=1171)
+		Map(V='MSD=\'10mm\' MSND=\'5deg\' Offset=\'0mm\'', ID=1119)
+		Map(V='MSD=\'10mm\' MSND=\'5deg\' Offset=\'100mm\'', ID=1179)
+		Map(V='MSD=\'10mm\' MSND=\'5deg\' Offset=\'20mm\'', ID=1175)
+		Map(V='MSD=\'10mm\' MSND=\'5deg\' Offset=\'40mm\'', ID=1176)
+		Map(V='MSD=\'10mm\' MSND=\'5deg\' Offset=\'60mm\'', ID=1177)
+		Map(V='MSD=\'10mm\' MSND=\'5deg\' Offset=\'80mm\'', ID=1178)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	MeshAssemVersionID=2
+	$begin 'NextAssemVersionID'
+		NextUniqueID=3
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'MI'
+	$end 'MI'
+	VersionID2=1126
+$end 'SolutionBlock5'
+$begin 'SolutionBlock2'
+	SolutionName='AdaptivePass'
+	SolutionID=7
+	V=1125
+	$begin 'States'
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(5000000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+$end 'SolutionBlock2'
+$begin 'SolutionBlock3'
+	SolutionName='LastAdaptive'
+	SolutionID=8
+	V=1125
+	$begin 'States'
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(5000000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+$end 'SolutionBlock3'
+$begin '$index$'
+	$begin '$index$'
+		BlockMapName(pos=1359, lin=33, lvl=0)
+		OptimetricsResults(pos=1743, lin=39, lvl=0)
+		OptimetricsResult1(pos=1826, lin=42, lvl=0)
+		ResponseSurfaceCache(pos=3115, lin=72, lvl=0)
+		SolutionBlock2(pos=4320, lin=107, lvl=0)
+		SolutionBlock3(pos=4677, lin=125, lvl=0)
+		SolutionBlock4(pos=370, lin=1, lvl=0)
+		SolutionBlock5(pos=3197, lin=75, lvl=0)
+		$base_index$(pos=0, lin=1, lvl=0)
+		$index$(pos=5034, lin=143, lvl=0)
+	$end '$index$'
+$end '$index$'

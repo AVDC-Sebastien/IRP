@@ -1,0 +1,32 @@
+$begin 'Profile'
+	$begin 'ProfileGroup'
+		MajorVer=2023
+		MinorVer=2
+		Name='Solution Process'
+		$begin 'StartInfo'
+			I(0, 'Time:  05/18/2024 16:32:38, Host LAPTOP-SEB')
+		$end 'StartInfo'
+		$begin 'TotalInfo'
+			I(0, 'Time:  05/18/2024 16:32:39, Status: Normal Completion')
+		$end 'TotalInfo'
+		GroupOptions=0
+		TaskDataOptions()
+		ProfileItem('', 0, 0, 0, 0, 0, 'I(1, 0, \'\')', false, true)
+		ProfileItem('Analysis', 0, 903749, 0, 16000, 44232, 'I(1, 0, \'Elapsed time : 00:00:00 , SimplorerCOMEngine Memory : 43.2 M\')', true, true)
+	$end 'ProfileGroup'
+	$begin 'ProfileGroup'
+		MajorVer=2023
+		MinorVer=2
+		Name='Solution Process'
+		$begin 'StartInfo'
+			I(0, 'Time:  05/18/2024 16:32:58, Host LAPTOP-SEB')
+		$end 'StartInfo'
+		$begin 'TotalInfo'
+			I(0, 'Time:  05/18/2024 16:32:59, Status: Normal Completion')
+		$end 'TotalInfo'
+		GroupOptions=0
+		TaskDataOptions()
+		ProfileItem('', 0, 0, 0, 0, 0, 'I(1, 0, \'\')', false, true)
+		ProfileItem('Analysis', 0, 878522, 0, 16000, 43776, 'I(1, 0, \'Elapsed time : 00:00:00 , SimplorerCOMEngine Memory : 42.8 M\')', true, true)
+	$end 'ProfileGroup'
+$end 'Profile'

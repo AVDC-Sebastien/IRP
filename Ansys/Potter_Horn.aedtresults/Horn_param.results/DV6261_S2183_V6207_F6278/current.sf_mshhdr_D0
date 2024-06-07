@@ -1,0 +1,10 @@
+$begin 'Surface Mesh Header'
+	Version='1.0'
+	BigEndian=false
+	IncludeInRadPower=true
+	DataFormat='BINARY'
+	DataPrecision='Double'
+	NumVertices=326
+	NumMidPoints=0
+	NumTriangles=648
+$end 'Surface Mesh Header'

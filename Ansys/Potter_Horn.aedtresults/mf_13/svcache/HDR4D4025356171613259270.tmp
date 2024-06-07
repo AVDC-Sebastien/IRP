@@ -1,0 +1,134 @@
+SimValueCacheVersionID=1
+$begin 'SimValueInfos'
+	NextUniqueID=6
+	MoveBackwards=false
+	$begin 'SimValue'
+		ID=0
+		$begin 'SimValueParams'
+			QuantityName='S(1:1,1:1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=1
+		$begin 'SimValueParams'
+			QuantityName='DirL3X'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=2
+		$begin 'SimValueParams'
+			QuantityName='DirL3Y'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=3
+		$begin 'SimValueParams'
+			QuantityName='rEL3X'
+			ValueState(67, 9, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=4
+		$begin 'SimValueParams'
+			QuantityName='GainTotal'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=5
+		$begin 'SimValueParams'
+			QuantityName='DirTotal'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+$end 'SimValueInfos'
+$begin 'SimValueCache'
+	$begin 'DesignMap'
+		DesignID=13
+		$begin 'SolutionMap'
+			$begin 'ContextMap'
+				SolutionID=2182
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=2183
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=3
+						SimValueContext(0, 0, 2, 0, false, false, 107, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=6207
+						$begin 'MinorVVMap'
+							MajorVariation='fc=\'30GHz\' Freq=\'30GHz\' hA=\'0.5\' hB=\'0.58499999999999996\' hC=\'0.66100000000000003\' hD=\'2.2999999999999998\' lc=\'9.9930819333333325mm\' PC=\'-0.072999999999999995\' rA=\'0.51000000000000001\' rB=\'0.68700000000000006\' rC=\'0.80500000000000005\' rD=\'0.82199999999999995\' w=\'0.02\''
+							MinorCacheFile='min559725356171613324684.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=3
+						SimValueContext(0, 0, 2, 0, false, false, 105, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=6207
+						$begin 'MinorVVMap'
+							MajorVariation='fc=\'30GHz\' Freq=\'30GHz\' hA=\'0.5\' hB=\'0.58499999999999996\' hC=\'0.66100000000000003\' hD=\'2.2999999999999998\' lc=\'9.9930819333333325mm\' PC=\'-0.072999999999999995\' rA=\'0.51000000000000001\' rB=\'0.68700000000000006\' rC=\'0.80500000000000005\' rD=\'0.82199999999999995\' w=\'0.02\''
+							MinorCacheFile='min559725356171613324685.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=3
+						SimValueContext(0, 0, 2, 0, false, false, 103, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=6207
+						$begin 'MinorVVMap'
+							MajorVariation='fc=\'30GHz\' Freq=\'30GHz\' hA=\'0.5\' hB=\'0.58499999999999996\' hC=\'0.66100000000000003\' hD=\'2.2999999999999998\' lc=\'9.9930819333333325mm\' PC=\'-0.072999999999999995\' rA=\'0.51000000000000001\' rB=\'0.68700000000000006\' rC=\'0.80500000000000005\' rD=\'0.82199999999999995\' w=\'0.02\''
+							MinorCacheFile='min559725356171613324686.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=3
+						SimValueContext(0, 0, 2, 0, false, false, 101, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=6207
+						$begin 'MinorVVMap'
+							MajorVariation='fc=\'30GHz\' Freq=\'30GHz\' hA=\'0.5\' hB=\'0.58499999999999996\' hC=\'0.66100000000000003\' hD=\'2.2999999999999998\' lc=\'9.9930819333333325mm\' PC=\'-0.072999999999999995\' rA=\'0.51000000000000001\' rB=\'0.68700000000000006\' rC=\'0.80500000000000005\' rD=\'0.82199999999999995\' w=\'0.02\''
+							MinorCacheFile='min559725356171613324687.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=2184
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=0
+						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=6207
+						$begin 'MinorVVMap'
+							MajorVariation='fc=\'30GHz\' hA=\'0.5\' hB=\'0.58499999999999996\' hC=\'0.66100000000000003\' hD=\'2.2999999999999998\' lc=\'9.9930819333333325mm\' PC=\'-0.072999999999999995\' rA=\'0.51000000000000001\' rB=\'0.68700000000000006\' rC=\'0.80500000000000005\' rD=\'0.82199999999999995\' w=\'0.02\''
+							MinorCacheFile='min559725356171613324688.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+			$end 'ContextMap'
+		$end 'SolutionMap'
+	$end 'DesignMap'
+$end 'SimValueCache'

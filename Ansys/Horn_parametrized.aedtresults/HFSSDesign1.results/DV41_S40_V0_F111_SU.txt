@@ -1,0 +1,41 @@
+    VersionID HFSS2023
+    NumberFrequencies 1
+    NumberMeshes 1
+    Frequency 55000000.000000
+    MeshAssemblyIndex -1
+    Success 1
+    SolverName HybridSolver
+    IterativeSolver 0
+    DistributedSolver 0
+    Precision 0
+    NumTasks 1
+    NumTets 5296
+    BasisOrder 1
+    TREECOTREE 1
+    MemoryMasterMB 77.000000
+    MemoryTotalMB 141.765625
+    NumMeshStatisticsTets 2960
+    MemoryForSMatrixOnlyMB 21.000000
+    LowFrequencyCutoff 1697675.168469
+    MemoryDistributedTotalMB -1.000000
+    MemoryDistributedSMatrixOnlyMB -1.000000
+    MemoryTotalAccurate 1
+    MemorySMatrixOnlyAccurate 0
+    MemoryDistributedTotalAccurate 0
+    MemoryDistributedSMatrixOnlyAccurate 0
+    SingularMatrix 0
+    NumCores 1
+    NumKrylovVectors -1
+    MatrixSize 18829
+    TotalModes 1
+    NnzGrowthFactor 5.840872
+    NumberDomains 2
+    DomainID 0 1 
+    DomainType Domain FEBI 
+    DomainNumSubdomains 1 1 
+    DomainNumTets 2960 584 
+    DomainMemoryMB 110.214844 31.550781 
+IE_Accelerator_Info:UsageFile:NoFileFound:FirstRun:NewChoice:DDM-FEBI:1:-1:0.55:ACA
+IE_Accelerator_Info:ReRun:Usage__Key:FreqChange:Keep_______Choice:DDM-FEBI:1:-1:5.5:ACA
+IE_Accelerator_Info:ReRun:Usage__Key:FreqChange:Keep_______Choice:DDM-FEBI:1:-1:5.5:ACA
+IE_Accelerator_Info:ReRun:Usage__Key:FreqChange:Keep_______Choice:DDM-FEBI:1:-1:0.055:ACA

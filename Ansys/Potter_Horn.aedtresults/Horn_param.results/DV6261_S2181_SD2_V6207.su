@@ -1,0 +1,147 @@
+    VersionID HFSS2023
+    NumberFrequencies 4
+    NumberMeshes 1
+    Frequency 30000000000.000000
+    MeshAssemblyIndex -1
+    Success 1
+    SolverName HybridSolver
+    IterativeSolver 0
+    DistributedSolver 0
+    Precision 0
+    NumTasks 1
+    NumTets 18369
+    BasisOrder 1
+    TREECOTREE 0
+    MemoryMasterMB 106.000000
+    MemoryTotalMB 835.890625
+    NumMeshStatisticsTets 6489
+    MemoryForSMatrixOnlyMB 47.000000
+    LowFrequencyCutoff 6924946.585037
+    MemoryDistributedTotalMB -1.000000
+    MemoryDistributedSMatrixOnlyMB -1.000000
+    MemoryTotalAccurate 1
+    MemorySMatrixOnlyAccurate 0
+    MemoryDistributedTotalAccurate 0
+    MemoryDistributedSMatrixOnlyAccurate 0
+    SingularMatrix 0
+    NumCores 1
+    NumKrylovVectors -1
+    MatrixSize 45880
+    TotalModes 2
+    NnzGrowthFactor 7.701119
+    NumberDomains 2
+    DomainID 0 1 
+    DomainType Domain FEBI 
+    DomainNumSubdomains 1 1 
+    DomainNumTets 6489 2970 
+    DomainMemoryMB 201.855469 634.035156 
+IE_Accelerator_Info:UsageFile:NoFileFound:FirstRun:NewChoice:DDM-FEBI:1:-1:28:ACA
+IE_Accelerator_Info:ReRun:Usage__Key:FreqChange:Keep_______Choice:DDM-FEBI:1:-1:30:ACA
+    Frequency 32000000000.000000
+    MeshAssemblyIndex -1
+    Success 1
+    SolverName HybridSolver
+    IterativeSolver 0
+    DistributedSolver 0
+    Precision 0
+    NumTasks 1
+    NumTets 19905
+    BasisOrder 1
+    TREECOTREE 0
+    MemoryMasterMB 106.000000
+    MemoryTotalMB 917.339844
+    NumMeshStatisticsTets 6489
+    MemoryForSMatrixOnlyMB 47.000000
+    LowFrequencyCutoff 6924946.585037
+    MemoryDistributedTotalMB -1.000000
+    MemoryDistributedSMatrixOnlyMB -1.000000
+    MemoryTotalAccurate 1
+    MemorySMatrixOnlyAccurate 0
+    MemoryDistributedTotalAccurate 0
+    MemoryDistributedSMatrixOnlyAccurate 0
+    SingularMatrix 0
+    NumCores 1
+    NumKrylovVectors -1
+    MatrixSize 45880
+    TotalModes 2
+    NnzGrowthFactor 7.701119
+    NumberDomains 2
+    DomainID 0 1 
+    DomainType Domain FEBI 
+    DomainNumSubdomains 1 1 
+    DomainNumTets 6489 3354 
+    DomainMemoryMB 202.960938 714.378906 
+IE_Accelerator_Info:UsageFile:NoFileFound:FirstRun:NewChoice:DDM-FEBI:1:-1:28:ACA
+IE_Accelerator_Info:ReRun:Usage__Key:FreqChange:Keep_______Choice:DDM-FEBI:1:-1:32:ACA
+    Frequency 28000000000.000000
+    MeshAssemblyIndex -1
+    Success 1
+    SolverName HybridSolver
+    IterativeSolver 0
+    DistributedSolver 0
+    Precision 0
+    NumTasks 1
+    NumTets 16673
+    BasisOrder 1
+    TREECOTREE 0
+    MemoryMasterMB 104.000000
+    MemoryTotalMB 776.484375
+    NumMeshStatisticsTets 6489
+    MemoryForSMatrixOnlyMB 46.000000
+    LowFrequencyCutoff 6924946.585037
+    MemoryDistributedTotalMB -1.000000
+    MemoryDistributedSMatrixOnlyMB -1.000000
+    MemoryTotalAccurate 1
+    MemorySMatrixOnlyAccurate 0
+    MemoryDistributedTotalAccurate 0
+    MemoryDistributedSMatrixOnlyAccurate 0
+    SingularMatrix 0
+    NumCores 1
+    NumKrylovVectors -1
+    MatrixSize 45880
+    TotalModes 2
+    NnzGrowthFactor 7.701119
+    NumberDomains 2
+    DomainID 0 1 
+    DomainType Domain FEBI 
+    DomainNumSubdomains 1 1 
+    DomainNumTets 6489 2546 
+    DomainMemoryMB 201.449219 575.035156 
+IE_Accelerator_Info:UsageFile:NoFileFound:FirstRun:NewChoice:DDM-FEBI:1:-1:28:ACA
+IE_Accelerator_Info:ReRun:Usage__Key:No__Choice:RunAutoWithMemory:DDM-FEBI:1:-1:28:ACA
+    Frequency 29000000000.000000
+    MeshAssemblyIndex -1
+    Success 1
+    SolverName HybridSolver
+    IterativeSolver 0
+    DistributedSolver 0
+    Precision 0
+    NumTasks 1
+    NumTets 17169
+    BasisOrder 1
+    TREECOTREE 0
+    MemoryMasterMB 103.000000
+    MemoryTotalMB 706.269531
+    NumMeshStatisticsTets 6489
+    MemoryForSMatrixOnlyMB 47.000000
+    LowFrequencyCutoff 6924946.585037
+    MemoryDistributedTotalMB -1.000000
+    MemoryDistributedSMatrixOnlyMB -1.000000
+    MemoryTotalAccurate 1
+    MemorySMatrixOnlyAccurate 0
+    MemoryDistributedTotalAccurate 0
+    MemoryDistributedSMatrixOnlyAccurate 0
+    SingularMatrix 0
+    NumCores 1
+    NumKrylovVectors -1
+    MatrixSize 45880
+    TotalModes 2
+    NnzGrowthFactor 7.701119
+    NumberDomains 2
+    DomainID 0 1 
+    DomainType Domain FEBI 
+    DomainNumSubdomains 1 1 
+    DomainNumTets 6489 2670 
+    DomainMemoryMB 200.121094 506.148437 
+IE_Accelerator_Info:UsageFile:NoFileFound:FirstRun:NewChoice:DDM-FEBI:1:-1:28:ACA
+IE_Accelerator_Info:ReRun:Usage__Key:FreqChange:Keep_______Choice:DDM-FEBI:1:-1:29:ACA

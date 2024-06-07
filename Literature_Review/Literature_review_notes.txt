@@ -1,0 +1,8 @@
+Literature review notes :
+
+- Shadowing effect: https://www.sciencedirect.com/science/article/pii/S143484111100118X
+- Ice cristal icing https://www.hko.gov.hk/en/education/aviation-and-marine/aviation/00501-ice-crystal-icing-a-threat-to-aircraft-					engine.html#:~:text=The%20moisture%20content%20in%20the,thin%20layer%20of%20liquid%20water.
+- Ice formation on aricraft: https://phys.org/news/2016-01-ice-formation-aircrafts-flight.html
+- Satellite Radio Communications Fundamentals and Link Budgets :https://link.springer.com/referenceworkentry/10.1007/978-1-4419-7671-0_17#:								~:text=A%20link%20budget%20is%20an,power%20above%20what%20is%20required.
+- Link Budget : https://en.wikipedia.org/wiki/Link_budget
+- VHF antenna : https://www.l3harris.com/all-capabilities/c50-17-series-vhf-antenna

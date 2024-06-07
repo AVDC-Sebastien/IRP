@@ -1,0 +1,13 @@
+$begin 'CacheDataVersion'
+	DataVersion=2
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	Horn_length='130mm'
+	a='23mm'
+	b='10mm'
+	WG_lenght='25mm'
+	PlaneA='(2.65*25.4) mm'
+	PlaneB='(1.95*25.4) mm'
+	Wall_thickness='(25.4*0.05) mm'
+	rad_dist='(25.4*0.4) mm'
+$end 'VariableValues'
